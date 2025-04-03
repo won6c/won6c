@@ -3,6 +3,10 @@
 📧 won6choi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/astradian) | [GitHub](https://github.com/won6c)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+This+is+Astrodian;You+are+in+Astrodian's+Repository)](https://git.io/typing-svg)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won6c&layout=compact)
 
 ---
