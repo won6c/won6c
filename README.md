@@ -3,7 +3,7 @@
 📧 won6choi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/astradian) | [GitHub](https://github.com/won6c)
 
-![won6c's GitHub stats](https://github-readme-stats.vercel.app/api?username=won6c&show_icons=true&theme=radical)
+![won6c's GitHub stats](https://github-readme-stats.vercel.app/api?username=won6c&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won6c&layout=compact)
 
 ---
 
