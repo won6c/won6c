@@ -1,4 +1,4 @@
-# 🚀 Wonjun Choi | Automotive Security, Reversing, Malware Analysis
+# 🚀 Astradian | Automotive Security, Reversing, Malware Analysis
 
 📧 won6choi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/astradian) | [GitHub](https://github.com/won6c)
